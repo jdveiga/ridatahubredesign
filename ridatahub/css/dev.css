@@ -1,0 +1,74 @@
+.first{
+	   text-align: center;
+	   color:black;
+
+}
+ .move{
+	margin-left:30px;
+}
+
+#explore{
+	background-color:white;
+	padding: 50px 0 100px;
+}
+
+.learn{
+	border: 1px solid gray;
+	background-color: rgba(51,62,72,0.48);
+	border-radius: 30px;
+	box-shadow: -5px 5px 5px #888888;
+
+}
+
+
+.esplore{
+	border: 1px solid gray;
+	background-color: rgba(51,62,72,0.48);
+	border-radius: 30px;
+	box-shadow: -5px 5px 5px #888888;
+	
+}
+
+.back{
+	background-image:url("images/grid.png");
+	background-repeat: repeat-x;
+	background-size: 100%;
+}
+
+#event{
+	padding-bottom:85px;
+	background-color:white
+}
+
+.contact-section{
+	background-color:white;
+
+}
+
+#contact-section .btn-primary {
+	color: #1B7B98;
+}
+
+#footer a{
+	color: #1B7B98;
+}
+
+.navbar-brand{
+	margin-left: 25px;
+	color: white;
+}
+
+.middle{
+	text-align: center;
+	color:#1B7B98
+}
+
+.middles{
+	padding:15px;
+	font-size:17pt;
+}
+
+#footer{
+	background-color:#888888;
+}
+
