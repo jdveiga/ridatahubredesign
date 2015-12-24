@@ -1,0 +1,106 @@
+body{
+color: lightblack;
+}
+
+.secondary-section {
+ background: #FFF;
+}
+
+.navbar {
+background: #a44499;
+}
+
+.navbar-inner {
+background: #FFF;
+min-height: 35px;
+}
+
+.nav-pills > .active > a{
+background: #a44499;
+}
+
+.nav-pills > li > a:hover{
+background: #a44499;
+}
+
+nav-pills > li > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
+background: #a44499;
+}
+
+.navbar{
+min-height:40px;
+min-height: 35px;
+}
+
+.section {
+padding-bottom: 25px;
+}
+
+.navbar-fixed-top {
+height: 0px;
+}
+
+.triangle{
+border-top: 30px solid #a44499;
+}
+
+.nav-pills {
+margin-bottom: 45px;
+}
+
+.section .container {
+padding-top: 80px;
+}
+
+.thumbnail .mask{
+background:#a44499;
+}
+
+.thumbnail{
+background: #FFF;
+}
+
+.thumbnail h3{
+color: #a44499;
+}
+
+.secondary-section h1{
+color: #a44499;
+}
+
+.single-project{
+background: #181A1C;
+}
+
+
+.project-info span, .project-title h3{
+color: #a44499;
+}
+
+.project-title{
+border-bottom: 1px solid #a44499;
+}
+
+.icon-up-open:before {
+content: '\25b2';
+}
+
+.scrollup{
+background: #a44499;
+}
+
+.icon-plus:before{
+content: '\271a';
+}
+
+.icon-cancel:before {
+content: '\03a7';
+}
+
+.close {
+font-size: 35px;
+}
+
+.project-title .close {
+color: red;
+}
