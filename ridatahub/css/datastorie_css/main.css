@@ -7,7 +7,7 @@ color: lightblack;
 }
 
 .navbar {
-background: #a44499;
+background:#1B7B98;
 }
 
 .navbar-inner {
@@ -16,15 +16,15 @@ min-height: 35px;
 }
 
 .nav-pills > .active > a{
-background: #a44499;
+background: #1B7B98;
 }
 
 .nav-pills > li > a:hover{
-background: #a44499;
+background: #1B7B98;
 }
 
 nav-pills > li > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover, .nav-pills > .active > a:focus {
-background: #a44499;
+background: #1B7B98;
 }
 
 .navbar{
@@ -41,7 +41,7 @@ height: 0px;
 }
 
 .triangle{
-border-top: 30px solid #a44499;
+border-top: 30px solid #1B7B98;
 }
 
 .nav-pills {
@@ -53,7 +53,7 @@ padding-top: 80px;
 }
 
 .thumbnail .mask{
-background:#a44499;
+background:#1B7B98;
 }
 
 .thumbnail{
@@ -61,11 +61,11 @@ background: #FFF;
 }
 
 .thumbnail h3{
-color: #a44499;
+color: #1B7B98;
 }
 
 .secondary-section h1{
-color: #a44499;
+color: #1B7B98;
 }
 
 .single-project{
@@ -74,11 +74,11 @@ background: #181A1C;
 
 
 .project-info span, .project-title h3{
-color: #a44499;
+color: #1B7B98;
 }
 
 .project-title{
-border-bottom: 1px solid #a44499;
+border-bottom: 1px solid #1B7B98;
 }
 
 .icon-up-open:before {
@@ -86,7 +86,7 @@ content: '\25b2';
 }
 
 .scrollup{
-background: #a44499;
+background: #1B7B98;
 }
 
 .icon-plus:before{
